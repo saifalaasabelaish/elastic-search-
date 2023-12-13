@@ -1,0 +1,154 @@
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12957" NEWID="774">
+<DATE> 2-MAR-1987 16:26:51.25</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0053&#31;reute
+r f BC-SERVICE-CORP-INTERNAT   03-02 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SERVICE CORP INTERNATIONAL &lt;SRV> 3RD QTR NET</TITLE>
+<DATELINE>    HOUSTON, March 2 - </DATELINE><BODY>Qtr ended Jan 31
+    Shr 33 cts vs 29 cts
+    Net 14.8 mln vs 11 mln
+    Revs 108.6 mln vs 70.0 mln
+    Avg shrs 45.2 mln vs 37.6 mln
+    Nine mths
+    Shr 88 cts vs 76 cts
+    Net 36.7 mln vs 28.7 mln
+    Revs 260.4 mln vs 193.0 mln
+    Avg shrs 41.9 mln vs 37.8 mln
+    Note: Net for nine mths includes gains from dispositions of
+1,783,000 dlrs or four cts a share vs 900,000 dlrs or two cts a
+share.
+    Avg shrs and shr data restated to reflect three-for-two
+stock split in January.
+ Reuter
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12958" NEWID="775">
+<DATE> 2-MAR-1987 16:26:59.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0054&#31;reute
+u f BC-WARNER-COMMUNICATIONS   03-02 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WARNER COMMUNICATIONS &lt;WCI>IN CONTRACT WITH ROSS</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>Warner Communications Inc said its
+board has approved a 10-year employment contract with Chairman
+Steven J. Ross.
+    The company said the contract was opposed by the six board
+members who are nominees of Chris-Craft Inc &lt;CCN>.
+    It said the new contract calls for "new bonus awards to be
+paid out over the period of the contract," based on the price
+of the company's stock. Its statement provided no details.
+    Warner said the contract, which has been under discussion
+for a lengthy period, assures the stability and creative future
+of the company.
+ Reuter
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12959" NEWID="776">
+<DATE> 2-MAR-1987 16:27:10.48</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0056&#31;reute
+s f BC-PEOPLES-BANCORPORATIO   03-02 0023</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PEOPLES BANCORPORATION &lt;PEOP> QUARTERLY DIVIDEND</TITLE>
+<DATELINE>    SEATTLE, March 2 -
+    </DATELINE><BODY>Qtly div 25 cts vs 25 cts
+    Pay April 24
+    Record March 31
+ Reuter
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12960" NEWID="777">
+<DATE> 2-MAR-1987 16:27:30.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0059&#31;reute
+d f BC-CAREMARK-&lt;CMRK>-CHANG   03-02 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CAREMARK &lt;CMRK> CHANGES FISCAL YEAR-END</TITLE>
+<DATELINE>    NEWPORT BEACH, Calif., March 2 - </DATELINE><BODY>Caremark Inc said it is
+changing its fiscal year-end to a calendar year from the
+previous fiscal year ending June 30.
+ Reuter
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12961" NEWID="778">
+<DATE> 2-MAR-1987 16:27:52.88</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0061&#31;reute
+d f BC-CPL-REIT-&lt;CNTRS>-4TH   03-02 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CPL REIT &lt;CNTRS> 4TH QTR NET</TITLE>
+<DATELINE>    DAVENPORT, Iowa, March 2 -
+    </DATELINE><BODY>Shr 24 cts
+    Net 412,737
+    Revs 605,321
+    Year
+    Shr 93 cts
+    Net 1,577,892
+    Revs 2,345,261
+    NOTE: Full name CPL Real Estate Investment Trust.
+    Company was formed Dec 30, 1985.
+ Reuter
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12962" NEWID="779">
+<DATE> 2-MAR-1987 16:28:21.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0062&#31;reute
+d f BC-STAR-TECHNOLOGIES-TO   03-02 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STAR TECHNOLOGIES TO TRADE ON NASDAQ</TITLE>
+<DATELINE>    STERLING, Va., March 2 - </DATELINE><BODY>Star Technologies Inc said its
+shares will begin trading on the Nasdaq national market system
+tomorrow.
+    The company, a manufacturer of very high-speed computers
+for scientific applications, has annual revenues of about 40
+mln dlrs.
+    In the nine months ended Dec 31, the company earned 1.9 mln
+dlrs against a loss of 16.5 mln dlrs in the year-ago period, as
+sales rose to 32.6 mln dlrs from 9.3 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>
+</REUTERS>
