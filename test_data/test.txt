@@ -20,7 +20,7 @@ r f BC-SERVICE-CORP-INTERNAT   03-02 0056</UNKNOWN>
     Nine mths
     Shr 88 cts vs 76 cts
     Net 36.7 mln vs 28.7 mln
-    Revs 260.4 mln vs 193.0 mln
+    Revs 260.4 mln vs 193.0 mln 
     Avg shrs 41.9 mln vs 37.8 mln
     Note: Net for nine mths includes gains from dispositions of
 1,783,000 dlrs or four cts a share vs 900,000 dlrs or two cts a
@@ -150,5 +150,75 @@ mln dlrs.
 dlrs against a loss of 16.5 mln dlrs in the year-ago period, as
 sales rose to 32.6 mln dlrs from 9.3 mln dlrs.
  Reuter
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16534" NEWID="1214">
+<DATE> 3-MAR-1987 13:25:05.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0315&#31;reute
+r f BC-TALKING-POINT/AUTO-SU   03-03 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TALKING POINT/AUTO SUPPLIER STOCKS</TITLE>
+<AUTHOR>    By Richard Walker, Reuters</AUTHOR>
+<DATELINE>    DETROIT, March 3 - </DATELINE><BODY>The 1987 outlook for U.S. auto sales is
+clouded by a decidedly mixed sales forecast, and analysts who
+follow the industry say it is also true for companies that sell
+parts and equipment to the major car and truck manufacturers.
+    But while there are only four major U.S.-based automakers
+whose shares are traded on stock exchanges, there are thousands
+of big and small suppliers who sell a flood of original and
+replacement parts.
+    Analysts who follow the parts industry say there are many
+opportunities for investors brought on by the auto industry's
+intensified competition and the large volume of production in
+North America planned by Japanese automakers.
+    But assessing the supplier arena is far more complicated
+than for investors considering the stocks of the Detroit Big
+Three - General Motors Corp &lt;GM>, Ford Motor Co &lt;F> and
+Chrysler Corp &lt;C>.
+    Despite widespread predictions that U.S. vehicle sales will
+decline about 10 pct from the record 1987 levels, Wall Street
+financial experts are still generally bullish on Ford and
+somewhat less so on Chrysler.
+    And analysts remain largely neutral to bearish on GM, the
+industry giant whose earnings have been dropping along with its
+sales as it struggles to reorganize and shed its unprofitable
+parts-making businesses.
+ more
+&#3;</BODY></TEXT>
+</REUTERS>
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6920" NEWID="19084">
+<DATE>19-JUN-1987 07:10:04.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0455&#31;reute
+r f BC-S/P-AFFIRMS-NATIONAL   06-19 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>S/P AFFIRMS NATIONAL WESTMINSTER DEBT</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>Standard and Poor's Corp said it
+yesterday affirmed the AAA senior debt and A-1-plus commercial
+paper of National Westminster Bank Plc &lt;NWBL.L>.
+    The AA long-term and A-1-plus short-term certificates of
+deposit of National Westminster Bank USA were also affirmed.
+    S and P cited the bank's decision to increase group
+provisions for sovereign debt exposure by 466 mln stg. The
+action raised total provisions against 35 countries with
+payment difficulties to 29.8 pct from 13 pct, S and P said. S
+and P said this puts the bank's debt coverage in line with that
+of its international peers.
+ REUTER
 &#3;</BODY></TEXT>
 </REUTERS>
